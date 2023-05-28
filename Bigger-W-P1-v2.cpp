@@ -1,14 +1,3 @@
-/*
-Programmer : William Bigger
-Instructor : John Cofffey
-Project : C++ grade average calculator
-Purpose : compare grades for C++ assignments, and determine the overall average grade
- 
- The name of your program file should be: your last name, a dash (-), your
-first initial, another dash, the letter 'p', the project number, followed by the .cpp
-extension. For example, if your name is John Coffey, and you are submitting
-project 3, your file should be called coffey-j-p3.cpp.
-*/
 
 #include <iostream>
 using namespace std;
