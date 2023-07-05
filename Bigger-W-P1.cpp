@@ -1,6 +1,6 @@
 /*
 Programmer: William Bigger
-Instructor: John Coffey
+I
 Intro to C++
 Purpose: Take user grades, give information and warnings for failing grades
 */
